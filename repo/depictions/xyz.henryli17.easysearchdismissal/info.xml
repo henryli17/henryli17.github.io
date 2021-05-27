@@ -22,7 +22,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>0.0.2</change>
 		<change>Pressing 'Search' on the keyboard whilst the search bar is empty now mimics the cancelling the search.</change>
 		<change>Known bugs: Does not work on Spotlight search.</change>
 	</changelog>
