@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.2</version>
+		<change>Pressing 'Search' on the keyboard whilst the search bar is empty now mimics the cancelling the search.</change>
+		<change>Known bugs: Does not work on Spotlight search.</change>
+	</changes>
+	<changes>
 		<version>0.0.1</version>
 		<change>Initial Release</change>
 	</changes>
