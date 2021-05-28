@@ -1,5 +1,10 @@
 <changelog>
 	<changes>
+		<version>0.0.4</version>
+		<change>Now supports (in theory) all versions of iOS.</change>
+		<change>Further improved 3rd party application support.</change>
+	</changes>
+	<changes>
 		<version>0.0.3</version>
 		<change>Improve support for 3rd party applications.</change>
 	</changes>

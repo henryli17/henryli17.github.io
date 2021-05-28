@@ -1,10 +1,10 @@
 <package>
 	<id>xyz.henryli17.easysearchdismissal</id>
 	<name>EasySearchDismissal</name>
-	<version>0.0.3</version>
+	<version>0.0.4</version>
 	<compatibility>
 		<firmware>
-			<miniOS>13.0</miniOS>
+			<miniOS>2.0</miniOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
@@ -22,6 +22,7 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Improve support for 3rd party applications.</change>
+		<change>Now supports (in theory) all versions of iOS.</change>
+		<change>Further improved 3rd party application support.</change>
 	</changelog>
 </package>
