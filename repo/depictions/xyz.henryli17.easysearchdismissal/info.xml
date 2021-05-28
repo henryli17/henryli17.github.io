@@ -20,6 +20,7 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
+		<change>Code optimisation.</change>
 		<change>Support more applications.</change>
 	</changelog>
 </package>
