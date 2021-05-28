@@ -1,7 +1,7 @@
 <package>
 	<id>xyz.henryli17.easysearchdismissal</id>
 	<name>EasySearchDismissal</name>
-	<version>0.0.4</version>
+	<version>0.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>2.0</miniOS>
@@ -9,11 +9,10 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>firmware</package>
 	</dependencies>
-	<shortDescription>Dismiss the the search bar by pressing 'Search' on the bottom right of your keyboard even if the search bar is empty.</shortDescription>
+	<shortDescription>Easily dismiss an empty search bar with one tap from the keyboard.</shortDescription>
 	<descriptionlist>
-		<description>Dismiss the the search bar by pressing 'Search' on the bottom right of your keyboard even if the search bar is empty.</description>
+		<description>Dismiss an empty search bar by pressing 'Search' on the bottom right of your keyboard.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -21,7 +20,6 @@
 		</screenshot>			
 	</screenshots>
 	<changelog>
-		<change>Now supports (in theory) all versions of iOS.</change>
-		<change>Further improved 3rd party application support.</change>
+		<change>Support more applications.</change>
 	</changelog>
 </package>
