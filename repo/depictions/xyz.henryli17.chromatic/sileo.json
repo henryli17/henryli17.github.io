@@ -2,7 +2,7 @@
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.4",
-    "headerImage": "",
+    "headerImage": "https://henryli17.github.io/repo/depictions/xyz.henryli17.chromatic/screenshots/screenshot.png",
     "tabs": [
         {
             "tabname": "Details",
