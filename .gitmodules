@@ -1,4 +1,0 @@
-[submodule "repo"]
-	path = repo
-	url = https://github.com/henryli17/repo.git
-	branch = master
